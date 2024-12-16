@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Year of the Blight",
+    "description": "Year of the Blight is a lightweight, vanilla+ modlist for Dragon Age Origins Ultimate Edition, focusing on keeping the original experience while fixing a variety of bugs and adding lore-friendly improvements to character models, textures, armor, and weapons to keep it in line with what was added in later games in the series.",
+    "author": "Camboi BYC",
+    "maintainers": [
+      "github/CamIce2002"
+    ],
+    "game": "dragonageorigins",
+    "tags": [
+      "Vanilla+",
+      "Lightweight",
+      "Bug Fixes",
+      "Visuals"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/CamIce2002/YearoftheBlight/main/YOTB.png",
+      "readme": "https://www.modlists.net/docs/8yotb/Install",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "YotB",
+      "discordURL": "https://discord.gg/43EhRjU"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "G+M/AtlhFf4=",
+      "Size": 26945503,
+      "NumberOfArchives": 55,
+      "SizeOfArchives": 2910399681,
+      "NumberOfInstalledFiles": 7871,
+      "SizeOfInstalledFiles": 5776840970
+    },
+    "version": "1.0"
+  }
+]
